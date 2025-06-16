@@ -42,8 +42,7 @@ In the following predicted mask images, green regions indicate benign areas, whi
 
 <hr>
 <br>
-<br>
-h3>1 Dataset Citation</b></h3>
+<h3>1 Dataset Citation</b></h3>
 MIAS 2015
 <b>About Dataset</b><br>
 <b>Citation</b><br>
